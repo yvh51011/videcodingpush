@@ -1,7 +1,0 @@
-{
-  "name": "api-chatbots",
-  "private": true,
-  "scripts": {
-    "start": "node server.js"
-  }
-}
